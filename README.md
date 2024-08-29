@@ -49,3 +49,5 @@ httpServerLocation:"/gympro.github.io/assets/
 renombrar: *_expo -> expo*
 
 cambiar: *_expo -> ./expo* en index.html
+
+* NOTA: asegurese que ```BACKEND_URL``` esta bien
