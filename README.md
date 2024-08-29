@@ -41,3 +41,11 @@ else
     echo "No hay commits locales para hacer push."
 fi
 ```
+# Remplazo js
+httpServerLocation:"/assets/
+httpServerLocation:"/gympro.github.io/assets/
+
+## Renombrar y cambiar
+renombrar: *_expo -> expo*
+
+cambiar: *_expo -> ./expo* en index.html
